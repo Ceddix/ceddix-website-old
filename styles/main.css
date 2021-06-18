@@ -1,0 +1,179 @@
+/* Test-Page */
+
+/*  Fonts  */
+@font-face {
+    font-family: headlinenews;
+    src: url(../vendor/fonts/headlinenews.ttf);
+}
+
+@font-face {
+    font-family: signika_negative;
+    src: url(../vendor/fonts/SignikaNegative-Regular.ttf);
+}
+
+
+/*  Main  */
+body {
+    background-color: #1a1f25;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+}
+
+.text {
+    color: #7b8cac;
+    font-size: 25px;
+    font-family: signika_negative;
+}
+
+/* Homepage */
+.main {
+    width: 50%;
+    text-align: center;
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main h3 {
+    font-family: headlinenews;
+    font-size: 70px;
+    color: #c5cede;
+    cursor: pointer;
+}
+
+/*  Social  */
+.main-social {
+    font-size: 35px;
+    margin-top: -60px;
+}
+
+.main-social a {
+    margin-right: 13px;
+    margin-left: 13px;
+}
+
+.main-social a:link, a:visited {
+    color: #7b8cac;
+    text-decoration: unset;
+}
+
+.main-social a:hover {
+    text-decoration: unset;
+}
+
+/* Social-Hover */
+.social-github:hover, .social-github:link:hover { color: #4078c0; }
+.social-reddit:hover, .social-reddit:link:hover { color: #bf481f; }
+.social-steam:hover, .social-steam:link:hover {
+    background:linear-gradient(120deg, #151c2e, #2077a6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; }
+.social-discord:hover, .social-discord:link:hover { color: #7289DA; }
+.social-instagram:hover, .social-instagram:link:hover {
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; }
+.social-twitter:hover, .social-twitter:link:hover { color: #1da1f2; }
+
+/* Social-Tooltip */
+.social-tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.social-tooltip .social-tooltiptext {
+    visibility: hidden;
+    width: 100px;
+    background-color: black;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 125%;
+    left: 50%;
+    margin-left: -50px;
+    color: #c5cede;
+    font-size: 17px;
+    font-family: signika_negative;
+}
+
+.social-tooltip .social-tooltiptext::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+    color: #c5cede;
+}
+
+.social-tooltip:hover .social-tooltiptext {
+    visibility: visible;
+}
+
+/* Main-Navigation */
+.main-nav, .main-nav a {
+    font-family: signika_negative;
+    color: #7b8cac;
+    text-decoration: unset;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.main-nav a:hover {
+    color: #ea9f00;
+}
+
+/* About-Page */
+.about-main {
+    margin: 20px;
+}
+
+.about-box {
+    width: 100%;
+    height: 300px;
+    border-style: solid;
+    border-color: white;
+    padding: 0;
+}
+
+.about-image img {
+    height: 300px;
+    padding: 0;
+}
+
+/* Error 404-Page */
+.page404-main {
+    margin: 20px;
+}
+
+.page404-title h3 {
+    font-family: signika_negative;
+    color: #7b8cac;
+    text-decoration: unset;
+    font-size: 40px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.page404-title h2, .page404-title a {
+    font-family: signika_negative;
+    color: #7b8cac;
+    text-decoration: unset;
+    font-size: 25px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.page404-title a:hover {
+    color: #ea9f00;
+}
