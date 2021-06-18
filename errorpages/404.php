@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <title>Ceddix – 404</title>
     <meta name="author" content="Ceddix">
-    <link rel="stylesheet" href="../styles/main.css">
-    <link rel="stylesheet" href="../vendor/fontawesome/css/all.css">
-    <link rel="icon" href="../images/icon.png">
-    <script src="../scripts/scripts.js"></script>
+    <link rel="stylesheet" href="./styles/main.css">
+    <link rel="stylesheet" href="./vendor/fontawesome/css/all.css">
+    <link rel="icon" href="./images/icon.png">
+    <script src="./scripts/scripts.js"></script>
 </head>
 <body class="page404-main">
     <div class="page404-title">
