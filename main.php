@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="styles/main.css">
     <link rel="stylesheet" href="vendor/fontawesome/css/all.css">
     <link rel="icon" href="images/icon.png">
-    <!--  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> -->
  </head>
 
  <script src="scripts/scripts.js"></script>
