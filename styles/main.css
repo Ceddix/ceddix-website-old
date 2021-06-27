@@ -99,6 +99,7 @@ body {
     color: #c5cede;
     font-size: 17px;
     font-family: signika_negative;
+    -webkit-text-fill-color: currentColor;
 }
 
 .social-tooltip .social-tooltiptext::after {
@@ -111,6 +112,7 @@ body {
     border-style: solid;
     border-color: transparent transparent black transparent;
     color: #c5cede;
+    -webkit-text-fill-color: currentColor;
 }
 
 .social-tooltip:hover .social-tooltiptext {

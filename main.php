@@ -29,7 +29,7 @@
                  </a>
                  <a href="https://www.reddit.com/user/CeddixCed" class="social-reddit social-tooltip">
                      <i class="fab fa-reddit"></i>
-                     <span class="social-tooltiptext" style="width: 110px; margin-left: -50px">
+                     <span class="social-tooltiptext" style="width: 110px; margin-left: -55px">
                          <strong>Reddit</strong><br>
                          <span style="color: #5b5e64">u/CeddixCed</span>
                      </span>
@@ -43,7 +43,7 @@
                  </a>
                  <a href="https://discord.com/invite/FGCq5GN" class="social-discord social-tooltip">
                      <i class="fab fa-discord"></i>
-                     <span class="social-tooltiptext" style="width: 70px; margin-left: -30px">
+                     <span class="social-tooltiptext" style="width: 70px; margin-left: -35px">
                          <strong>Discord</strong><br>
                          <span style="color: #5b5e64">Ceddix</span>
                      </span>
@@ -57,7 +57,7 @@
                  </a>
                  <a href="https://twitter.com/CeddixCed/" class="social-twitter social-tooltip">
                      <i class="fab fa-twitter"></i>
-                     <span class="social-tooltiptext" style="width: 110px; margin-left: -50px">
+                     <span class="social-tooltiptext" style="width: 110px; margin-left: -55px">
                          <strong>Twitter</strong><br>
                          <span style="color: #5b5e64">@CeddixCed</span>
                      </span>
