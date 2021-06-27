@@ -26,7 +26,7 @@
              <div class="main-social">
                  <a href="https://github.com/Ceddix" class="social-github social-tooltip">
                      <i class="fab fa-github"></i>
-                     <span class="social-tooltiptext" style="width: 80px; margin-left: -40px">
+                     <span class="social-tooltiptext" style="width: 84px; margin-left: -42px">
                          <strong>GitHub</strong><br>
                          <span style="color: #5b5e64">@Ceddix</span>
                      </span>
@@ -40,21 +40,21 @@
                  </a>
                  <a href="https://steamcommunity.com/id/ceddix/" class="social-steam social-tooltip">
                      <i class="fab fa-steam"></i>
-                     <span class="social-tooltiptext" style="width: 100px; margin-left: -50px">
+                     <span class="social-tooltiptext" style="width: 110px; margin-left: -55px">
                          <strong>Steam</strong><br>
                          <span style="color: #5b5e64">@CeddixCed</span>
                      </span>
                  </a>
                  <a href="https://discord.com/invite/FGCq5GN" class="social-discord social-tooltip">
                      <i class="fab fa-discord"></i>
-                     <span class="social-tooltiptext" style="width: 70px; margin-left: -35px">
+                     <span class="social-tooltiptext" style="width: 75px; margin-left: -37.5px">
                          <strong>Discord</strong><br>
                          <span style="color: #5b5e64">Ceddix</span>
                      </span>
                  </a>
                  <a href="https://www.instagram.com/ceddix/" class="social-instagram social-tooltip">
                      <i class="fab fa-instagram"></i>
-                     <span class="social-tooltiptext" style="width: 100px; margin-left: -50px">
+                     <span class="social-tooltiptext" style="width: 90px; margin-left: -45px">
                          <strong>Instagram</strong><br>
                          <span style="color: #5b5e64">@ceddix</span>
                      </span>
