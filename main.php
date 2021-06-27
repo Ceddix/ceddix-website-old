@@ -16,9 +16,13 @@
  <div class="container">
      <div class="main" id="main">
          <div>
-             <a onclick="titelreverse()">
-                 <h3 id="title">CEDDIX</h3>
-             </a>
+            <!-- TITLE -->
+            <div class="main-title">
+                <a onclick="titelreverse()">
+                    <h3 id="title">CEDDIX</h3>
+                </a>
+            </div>
+             <!-- SOCIAL MEDIA -->
              <div class="main-social">
                  <a href="https://github.com/Ceddix" class="social-github social-tooltip">
                      <i class="fab fa-github"></i>
@@ -64,6 +68,7 @@
                  </a>
              </div>
          </div>
+         <!-- NAVIGATION -->
          <div class="main-nav">
              <a href="about" class="main-nav">About Me</a>
              •
