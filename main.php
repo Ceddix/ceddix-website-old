@@ -52,14 +52,14 @@
                          <span style="color: #5b5e64">Ceddix</span>
                      </span>
                  </a>
-                 <a href="https://www.instagram.com/ceddix/" target="_blank" class="social-instagram social-tooltip">
+                 <a href="https://www.instagram.com/ceddix/" target="_blank" class="social-instagram social-tooltip" id="social-tooltip" onmouseover="tooltipAnimation()">
                      <i class="fab fa-instagram"></i>
                      <span class="social-tooltiptext" style="width: 90px; margin-left: -45px">
                          <strong>Instagram</strong><br>
                          <span style="color: #5b5e64">@ceddix</span>
                      </span>
                  </a>
-                 <a href="https://twitter.com/CeddixCed/" target="_blank" class="social-twitter social-tooltip">
+                 <a href="https://twitter.com/CeddixCed/" target="_blank" class="social-twitter social-tooltip"  id="social-tooltip" onmouseover="tooltipAnimation()">
                      <i class="fab fa-twitter"></i>
                      <span class="social-tooltiptext" style="width: 110px; margin-left: -55px">
                          <strong>Twitter</strong><br>
