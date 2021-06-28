@@ -24,7 +24,7 @@
             </div>
              <!-- SOCIAL MEDIA -->
              <div class="main-social">
-                 <a href="https://github.com/Ceddix" target="_blank" class="social-github social-tooltip" onmouseleave="tooltipFadeOut('social-github')" onmouseover="tooltipFadeIn('social-github')">
+                 <a href="https://github.com/Ceddix" target="_blank" class="social-github social-tooltip" onmouseleave="tooltipFadeOut('social-github')">
                      <i class="fab fa-github"></i>
                      <span class="social-tooltiptext" style="width: 84px; margin-left: -42px" id="social-github">
                          <strong>GitHub</strong><br>
