@@ -107,6 +107,18 @@ body {
     font-size: 17px;
     font-family: signika_negative;
     -webkit-text-fill-color: currentColor;
+    animation: social-tooltip-fadeout 0.2s;
+    -webkit-animation: social-tooltip-fadeout 0.2s;
+}
+
+@-webkit-keyframes social-tooltip-fadeout {
+    from {opacity: 1;}
+    to {opacity: 0;}
+}
+
+@keyframes social-tooltip-fadeout {
+    from {opacity: 1;}
+    to {opacity: 0;}
 }
 
 .social-tooltip .social-tooltiptext::after {
