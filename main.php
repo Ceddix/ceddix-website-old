@@ -19,7 +19,7 @@
             <!-- TITLE -->
             <div class="main-title">
                 <a onclick="titelreverse()">
-                    <h3 id="title">CEDDIX</h3>
+                    <h3 id="title">CEDDIX!</h3>
                 </a>
             </div>
              <!-- SOCIAL MEDIA -->
@@ -40,7 +40,7 @@
                  </a>
                  <a href="https://steamcommunity.com/id/ceddix/" target="_blank" class="social-steam social-tooltip" onmouseleave="tooltipFadeOut('social-steam')">
                      <i class="fab fa-steam"></i>
-                     <span class="social-tooltiptext" style="width: 110px; margin-left: -55px"id="social-steam">
+                     <span class="social-tooltiptext" style="width: 110px; margin-left: -55px" id="social-steam">
                          <strong>Steam</strong><br>
                          <span style="color: #5b5e64">@CeddixCed</span>
                      </span>
