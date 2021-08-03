@@ -19,7 +19,7 @@
             <!-- TITLE -->
             <div class="main-title">
                 <a onclick="titelreverse()">
-                    <h3 id="title">CEDDIX!</h3>
+                    <h3 id="title">CEDDIX</h3>
                 </a>
             </div>
              <!-- SOCIAL MEDIA -->
